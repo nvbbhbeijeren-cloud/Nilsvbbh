@@ -1,0 +1,7 @@
+{
+  "name": "Valenciafinder",
+  "description": "Het ultieme platform om Valencia te ontdekken. Van interactieve kaarten en slimme reisplannen tot premium audio-tours en exclusieve lokale deals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
